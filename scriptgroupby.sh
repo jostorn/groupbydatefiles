@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#funcionament ./scriptgroupby origen desti
+
+
 dir=$1
 arrel=$(readlink -f $2)
 
